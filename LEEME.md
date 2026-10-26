@@ -8,6 +8,5 @@
 6. Cerrar y abrir el programa: puede entrar con la cuenta que acaba de crear.
 7. Intentar repetir el nombre: duplicado rechazado.
 8. Registrar un menor: conexión automática, contenido denegado.
-9. Recuperar la contraseña de la nueva cuenta con su pregunta; comprobar que
-   funciona la nueva clave y que la anterior deja de funcionar.
+9. Recuperar la contraseña de la nueva cuenta con su pregunta; comprobar que funciona la nueva clave y que la anterior deja de funcionar.
 10. Probar campos vacíos, fecha imposible, fecha futura y confirmación distinta.
